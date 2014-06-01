@@ -17,6 +17,5 @@ public class TestPerson {
         Person p4=new Person("James",25);
         p4.affiche();
 	}
-	}
 
 }
