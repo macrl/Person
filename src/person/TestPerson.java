@@ -12,6 +12,8 @@ public class TestPerson {
         p1.affiche();
         Person p2=new Person("Lee",18);
         p2.affiche();
+        Person p3=new Person("Bond",19);
+        p3.affiche();
 	}
 
 }
