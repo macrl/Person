@@ -18,6 +18,8 @@ public class TestPerson {
         p4.affiche();
         Person p5=new Person("Rambo",50);
         p5.affiche();
+        p5.setNom("Stalone");
+        p5.affiche();
 	}
 
 }
